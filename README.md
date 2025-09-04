@@ -1,2 +1,2 @@
 # Team-Collaboration
-A project fo demonstrating Team collaboration.
+A project for demonstrating Team collaboration.
